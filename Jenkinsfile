@@ -1,4 +1,3 @@
-# kiii_lab2
 node {
     def app
     stage('Clone repository') {
